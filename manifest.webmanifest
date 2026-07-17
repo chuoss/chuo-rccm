@@ -1,0 +1,26 @@
+{
+  "name": "RCCM試験 オンライン学習ツール 完全版",
+  "short_name": "RCCM学習",
+  "description": "RCCM試験の問題Ⅱ・問題Ⅳ-1・問題Ⅳ-2を学習できるオフライン対応ツール",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef2f7",
+  "theme_color": "#17365d",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
